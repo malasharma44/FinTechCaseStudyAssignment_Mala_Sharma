@@ -22,3 +22,13 @@ serves 45 million consumers and works with 65,000 merchants, with headquarters i
 * Especially with the rise of emotional spending, increased online presence globally, and highly efficient behavioral markets, the post-pandemic prospects indicate Klarna's success. The 2021 Super Bowl advertisement has most likely increased Klarna's reach in the United States with new users joining at consistently high rates throughout the pandemic and with new merchants joining the platform's exclusive rewards partnerships.
 * Within the existing marketplace, Klarna is judged based on the global reach straddling existing banking and credit industries and new user app downloads & transaction rates. Among competitors , Klarna is meeting the ranks of Afterpay in the USA and through global shareholders, Klarna is gaining trust amongst users.
 * Klarna should perhaps work to continue merging with other innovators in FinTech and more conventional financial service providers.
+## Sources
+* https://www.klarna.com/us/privacy/
+* https://en.wikipedia.org/wiki/Klarna
+* https://www.monash.edu/__data/assets/pdf_file/0007/2325895/FAF4-Fintech-International-Competition-Policy-and-Regulation-of-Financial-Servicesv2.pdf
+* https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1080906&dswid=-2160
+* https://www.diva-portal.org/smash/get/diva2:1080906/FULLTEXT01.pdf
+* https://search.proquest.com/openview/53823c68fa6c8044a5e49165b56f42f2/1?pq-origsite=gscholar&cbl=2041027
+* https://www.bizjournals.com/columbus/news/2021/02/08/klarna-first-super-bowl-ad-follows-record-2020.html
+* https://articles.klarna.com/articles/terms-conditions-vibe-rewards-club/
+* https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy
